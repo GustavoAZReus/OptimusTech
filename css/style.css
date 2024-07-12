@@ -1,0 +1,72 @@
+body{
+    font-family: "Inter", sans-serif;
+}
+
+.container{
+    display: flex;
+    width: 1216px;
+    flex-direction: row;
+}
+
+header { 
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+header .container{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 100px;
+}
+
+.home ul{    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    text-decoration: none;
+}
+
+.home ul li a {
+    text-decoration: none;
+}
+
+.butoes {
+    margin-left: 100px;   
+}
+
+.butoes .primeiro {
+    margin-right: 20px;
+}
+
+.butoes .segundo{
+    background-color: #8E2424;
+    text-decoration: white;
+}
+
+main .primeira{
+    background-color: red;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main .primeira .container .sobrenos h4{
+    color: aliceblue;
+    font-size: 16px;
+} 
+
+main .primeira .container .sobrenos h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+
