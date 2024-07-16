@@ -1,11 +1,11 @@
- <h1 align="center"> Página de vagas para área de programação</h1>
+ <h1 align="center"> OptimusTech com HTML / CSS </h1>
 
 <p align="center">
 Projeto desenvolvivo para praticar os conceitos de HTML, CSS e Responsividade. Desenvolvido em Desktop first.
 </p>
 
 <p align="center">
-Este projeto foi desenvolvido com os alunos do curso Técnico em Informática do Senac - Santa Rosa.
+Este projeto foi desenvolvido durante as aulas do curso Técnico em Informática do Senac - Santa Rosa.
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto tem como objetivo o desenvolvimento de um site para cadastro para vagas na área de programação.
+O projeto tem como objetivo o desenvolvimento de um site sobre programadores e designers.
 
 ## :memo: Licença
 
